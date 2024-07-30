@@ -1,0 +1,76 @@
+PODS:
+  - Alamofire (5.0.2)
+  - Charts (3.4.0):
+    - Charts/Core (= 3.4.0)
+  - Charts/Core (3.4.0)
+  - FlexColorPicker (1.3.1)
+  - IQKeyboardManagerSwift (6.5.5)
+  - MDatePickerView (1.2.3)
+  - NVActivityIndicatorView (4.8.0):
+    - NVActivityIndicatorView/Presenter (= 4.8.0)
+  - NVActivityIndicatorView/Presenter (4.8.0)
+  - PaintBucket (0.2)
+  - Pastel (0.6.0)
+  - rubber-range-picker (0.8.1)
+  - SearchTextField (1.2.4)
+  - SkeletonView (1.8.6)
+  - TagListView (1.4.0)
+  - TLPhotoPicker (2.0.11)
+  - TTSegmentedControl (0.4.10)
+  - UIDropDown (1.1.1)
+
+DEPENDENCIES:
+  - Alamofire (~> 5.0)
+  - Charts
+  - FlexColorPicker
+  - IQKeyboardManagerSwift
+  - MDatePickerView
+  - NVActivityIndicatorView
+  - PaintBucket (~> 0.1)
+  - Pastel
+  - rubber-range-picker
+  - SearchTextField
+  - SkeletonView
+  - TagListView (~> 1.0)
+  - TLPhotoPicker
+  - TTSegmentedControl
+  - UIDropDown
+
+SPEC REPOS:
+  trunk:
+    - Alamofire
+    - Charts
+    - FlexColorPicker
+    - IQKeyboardManagerSwift
+    - MDatePickerView
+    - NVActivityIndicatorView
+    - PaintBucket
+    - Pastel
+    - rubber-range-picker
+    - SearchTextField
+    - SkeletonView
+    - TagListView
+    - TLPhotoPicker
+    - TTSegmentedControl
+    - UIDropDown
+
+SPEC CHECKSUMS:
+  Alamofire: 3ba7a4db18b4f62c4a1c0e1cb39d7f3d52e10ada
+  Charts: 74c9f256eaf0460c0c416522d1cf8c634ea6b286
+  FlexColorPicker: e627af3d744786378ae65e53214528cc31105921
+  IQKeyboardManagerSwift: 0fb93310284665245591f50f7a5e38de615960b7
+  MDatePickerView: e26233885de2f13659c6101b3ed265eacf92c078
+  NVActivityIndicatorView: d24b7ebcf80af5dcd994adb650e2b6c93379270f
+  PaintBucket: ffa4e1666ee71e0c2fe8b299e2a1b87afaf3fe78
+  Pastel: 814f081efbe2859c37e65ee44f396e6e5be88619
+  rubber-range-picker: e9a1c4eebb783a016f62f46f056aac1cf53ae38c
+  SearchTextField: 40dc3cc57def5a211f263cac263622c163bbc25a
+  SkeletonView: 0bf463145522c0c551b76a829b397e2a15a16d46
+  TagListView: 987b0bdbb16cd9d9e7c0e2ec32aff37ecba8b173
+  TLPhotoPicker: a5c339732b8326bb16cbb4e00ed01a86f2bfbbb3
+  TTSegmentedControl: d8005c0cdca2549ade0aee8e09240723e2478a6a
+  UIDropDown: 22e6e3e22d419884c8f21d95ea9be36aac905ed4
+
+PODFILE CHECKSUM: 3883e6e13c17cf15a7274cae7a727b388e9f4306
+
+COCOAPODS: 1.9.2

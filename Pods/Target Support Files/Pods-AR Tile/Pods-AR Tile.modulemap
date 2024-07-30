@@ -1,0 +1,6 @@
+module Pods_AR_Tile {
+  umbrella header "Pods-AR Tile-umbrella.h"
+
+  export *
+  module * { export * }
+}
